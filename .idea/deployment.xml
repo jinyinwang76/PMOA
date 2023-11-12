@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="wjy@10.10.65.1:22 password" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="wjy@10.10.65.1:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wjy/LIRA-backdoor/backdoor_attacks-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wjy_LIAR">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wjy/LIRA-backdoor/backdoor_attacks-main" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
